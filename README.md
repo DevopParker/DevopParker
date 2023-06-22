@@ -5,8 +5,8 @@
 -->
 
 
-I live in California. I like spending time with my family, music, and coding. <br>
-Currently a student, pursuing a career as a software engineer and Fullstack developer.
+I'm from California. I enjoy listening to music, coding, and spending time with my family. <br>
+Currently enrolled in school with aspirations to become a software engineer and Fullstack developer.
 
 
 ### Languages and Tools
