@@ -1,13 +1,6 @@
-### Hey, I'm Parker.
-
 <!--
 **Software Developer student**
 -->
-
-
-I'm from California. I enjoy listening to music, coding, and spending time with my family. <br>
-Currently enrolled in school with aspirations to become a software engineer and Fullstack developer.
-
 
 ### Languages and Tools
 <img align="left" width=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
