@@ -1,4 +1,4 @@
-![image](https://github.com/DevopParker/DevopParker/assets/99158883/32c26d56-2cfb-4eee-b8f3-d20b3396d135)<!--
+<!--
 **Software Developer student**
 -->
 
